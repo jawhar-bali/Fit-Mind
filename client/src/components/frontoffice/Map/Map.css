@@ -1,0 +1,24 @@
+#map {
+    height: 400px;
+    width: 100%;
+  }
+  /*.map-container {
+    height: 400px;
+    width: 100%;
+    border: 1px solid #ccc;
+  }*/
+  .map-container {
+    transform: translateY(50px); /* Ajustez la valeur (50px) selon vos besoins */
+  }
+ 
+  .popup-content {
+    background-color: #fff;
+    padding: 10px;
+  }
+  .header-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; /* Valeur de z-index plus élevée que celui de la carte */
+  }

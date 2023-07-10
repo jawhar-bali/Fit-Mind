@@ -1,0 +1,53 @@
+h4 span.text-grey-500 {
+    color: rgb(234, 234, 188);
+    text-decoration: line-through;
+  }
+  h4 strong {
+    color: black;
+  }
+  h3 strong {
+    color: rgb(160, 22, 22);
+  }
+  .buttonp {
+    display: inline-block;
+    background-color: #831019;
+    border-radius: 10px;
+    border: 4px double #db1414;
+    color: #f73c3c;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .searchbar {
+    width: 300px; 
+    padding: 10px;
+    font-size: 14px; 
+  }
+  .white-text {
+    color: white;
+  }
+  .fetch-btn {
+    font-size: 14px;
+    padding: 5px 10px;
+  }
+  .card-custom {
+    background-color: black;
+    color: white; 
+  }
+  .card {
+    background-color: #cecece;
+  }  

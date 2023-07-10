@@ -1,0 +1,16 @@
+.Chatbot-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 400px;
+    height: 500px;
+  }
+  .Chatbot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .Chatbot {
+    background-color: black;
+  }

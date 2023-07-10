@@ -1,0 +1,27 @@
+
+.containermeet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.inputmeet {
+  font-size: 3rem;
+  padding: 1rem;
+  border: none;
+  border-bottom: 2px solid #333;
+  outline: none;
+  margin-right: 1rem;
+  text-align: center;
+}
+
+.buttonmeet {
+  font-size: 3rem;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
